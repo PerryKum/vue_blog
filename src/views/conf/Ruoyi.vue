@@ -36,5 +36,6 @@
 pre {
     font-size: 2em;
     width: fit-content;
+    word-wrap: break-word;
 }
 </style>
