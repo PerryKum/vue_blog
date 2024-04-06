@@ -1,7 +1,7 @@
 <template>
     <div class="rtcl">
         <h1>Node.js</h1>
-        <h3>版本选择：「>=12,<=16」，实测17版本无法运行 Ruoyi。</h3>
+        <h3>版本选择：「>=12,<=16」，实测更高版本无法运行 Ruoyi。</h3>
         <h3>「<a href="https://nodejs.org/en/download" target="_blank">官网下载</a>」。</h3>
         <h3>「Win + R」输入「cmd」并启动，运行「 <code>node -v</code> 」、「<code>npm -v</code> 」查询版本，显示版本号即安装成功。</h3>
         <br>
