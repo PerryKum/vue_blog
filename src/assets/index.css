@@ -1,0 +1,23 @@
+/*  全局样式 */
+
+span {
+    user-select: none;
+}
+
+a {
+    text-decoration: none;
+    user-select: none;
+}
+
+.rtcl {
+    width: 99%;
+    height: 99%;
+    margin-left: 1%;
+    word-wrap: break-word;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+code {
+    color: brown;
+}
