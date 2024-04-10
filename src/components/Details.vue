@@ -5,7 +5,7 @@
 </template>
 
 <script lang="ts" setup>
-import { onMounted, reactive } from 'vue';
+import { reactive } from 'vue';
 import { RouterView } from 'vue-router'
 
 const detailsBox = reactive({
