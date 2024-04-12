@@ -36,6 +36,10 @@ const router = createRouter({
         {
             path: '/conf/java',
             component: () => import('../views/conf/Java.vue')
+        },
+        {
+            path: '/java/EclipseImport',
+            component: () => import('../views/java/EclipseImport.vue')
         }
     ]
 })
